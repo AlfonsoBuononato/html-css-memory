@@ -95,3 +95,10 @@ main{
 .card:hover .pattern {
 	display: none;
 }
+
+/* FOOTER */
+
+.intestazione-finale{
+    text-align: center;
+    margin: 20px;
+}
